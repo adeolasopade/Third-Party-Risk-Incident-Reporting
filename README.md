@@ -1,6 +1,6 @@
 # Third-Party Risk & Incident Reporting
 
-*This project draws on real work, with all company details anonymised.*
+*This project is inspired by real-world engagements; however, all documents have been independently recreated using synthetic data to reflect practical scenarios. No client materials are reproduced. All templates are either self-developed or properly licensed and are not proprietary to any organisation.*
 
 ---
 
