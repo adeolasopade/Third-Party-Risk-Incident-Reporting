@@ -1,12 +1,12 @@
 # Third-Party Risk & Incident Reporting
 
-*This project is inspired by real-world engagements; however, all documents have been independently recreated using synthetic data to reflect practical scenarios. No client materials are reproduced. All templates are either self-developed or properly licensed and are not proprietary to any organisation.*
+*This project reflects the type of work I support in real-world engagements. The documentation consolidates insights from that experience alongside my ongoing self-directed study. All materials use synthetic data—no client information is reproduced—and the templates are either self-developed or properly licensed and are not proprietary to any organisation.*
 
 ---
 
 The work assessed supply-chain risk for a financial software provider, triggered by a ransomware attack originating from a critical payroll and procurement vendor. 
 
-The [documents](https://drive.google.com/drive/folders/12t3XR1YAt2IN_paceygTidZFhTsYd1Cj?usp=sharing) I created reflect the full incident lifecycle: from analysing the failure of a prior vendor assessment, to reporting the breach, to redesigning a robust vendor risk management framework that prevents recurrence.
+The [documents](https://drive.google.com/drive/folders/12t3XR1YAt2IN_paceygTidZFhTsYd1Cj?usp=sharing) developed reflect the full incident lifecycle: from analysing the failure of a prior vendor assessment, to reporting the breach, to redesigning a robust vendor risk management framework that prevents recurrence.
 
 ---
 
@@ -32,7 +32,7 @@ The [documents](https://drive.google.com/drive/folders/12t3XR1YAt2IN_paceygTidZF
 
 ## Reflection & Learning
 
-Third-party risk is dynamic. A strong initial assessment is insufficient without mechanisms for continuous assurance. 
+Third-party risk is dynamic. A strong initial assessment is insufficient without mechanisms for continuous assurance.
 
 Future programs should implement right-to-audit clauses with automated evidence collection and require vendor cyber insurance verification as a financial mitigant.
 
